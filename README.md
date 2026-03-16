@@ -1,84 +1,49 @@
-# 👋 Hi, I'm [Ghanshyam]
+# 👋 Hi, I'm **Ghanshyam**
 
-Developer focused on **Software Engineering, Artificial Intelligence, and Cybersecurity**.
+Developer focused on **Artificial Intelligence, Full Stack Development, and Cybersecurity**.
 
-I enjoy building practical systems that combine **machine learning, web technologies, and secure software design**.
-Currently improving my skills in **Machine Learning, Computer Vision, Data Structures & Algorithms, and Ethical Hacking.**
-
----
-
-## 🎯 Career Focus
-
-• Full Stack Development
-• Artificial Intelligence / Machine Learning
-• Cybersecurity & Ethical Hacking
-
-Long-term goal: **build intelligent systems that enhance human learning and decision making.**
+I enjoy building practical systems that combine **machine learning, web technologies, and secure software design.**
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Tech Stack
 
-**Languages**
-Python • JavaScript • C • C++ • Java • SQL
-
-**AI / ML**
-TensorFlow • PyTorch • Pandas • NumPy • OpenCV • Scikit-learn
-
-**Web Development**
-HTML • CSS • JavaScript
-
-**Cybersecurity**
-Kali Linux • Networking Basics • Vulnerability Assessment
-
----
-
-## 🚀 Featured Projects
-
-### 🐄 AI Cattle Classification Web Application
-
-AI-powered system where users upload cattle images and receive classification results through a web interface.
-
-Tech: Python • TensorFlow/PyTorch • OpenCV • Web Interface
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
+</p>
 
 ---
 
-### 📷 PicWeb — Photographer Hiring Platform
+## 🚀 Key Projects
 
-A web platform where photographers can showcase their work and users can discover, interact with, and hire photographers.
+**AI Cattle Classification Web Application**
+AI system where users upload cattle images and receive predictions through a web interface.
 
-Features:
-• Photographers publish portfolios
-• Users browse and like photos
-• Direct interaction between client and photographer
+**PicWeb – Photographer Hiring Platform**
+Platform where photographers publish portfolios and users browse, interact, and hire photographers.
+(Currently frontend – backend planned)
 
-Current Stack: HTML • CSS • JavaScript
-Future Scope: Backend integration, authentication, and booking system.
-
----
-
-### 🤖 Discord Automation Bot
-
-Custom Discord bot designed to automate server tasks and improve server interaction.
-
-Tech: Python • Discord API
+**Discord Automation Bot**
+Python bot designed to automate tasks and improve server interaction.
 
 ---
 
-## 🛠 Tools
+## 📚 Currently Learning
 
-Git • GitHub • VS Code • Google Colab • Kali Linux • Replit • HackTheBox
+Machine Learning • Computer Vision • Data Structures & Algorithms • Ethical Hacking
 
 ---
 
 ## 🌌 Interests
 
-Astrophysics • Visual media creation (video / audio / photo editing) • Technology for human learning
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghan07\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghan07\&layout=compact)
+Astrophysics • Visual media creation • Technology that improves human learning
